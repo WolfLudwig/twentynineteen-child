@@ -1,12 +1,21 @@
 /*
-Theme Name:   Twenty Seventeen Child
-Theme URI:    https://github.com/jibundeyare/src-wordpress-child-theme
-Description:  Twenty Seventeen Child Theme
-Author:       Jibundeyare
-Author URI:   https://github.com/jibundeyare/
-Template:     twentyseventeen
+Theme Name:   Twenty Nineteen Child
+Theme URI:    https://wolfludwig.com
+Description:  Twenty Nineteen Child Theme
+Author:       WolfLudwig
+Author URI:   https://wolfludwig.com
+Template:     twentynineteen
 Version:      1.0.0
 */
 
 /* put your css code here */
 
+p {
+    text-transform: uppercase;
+}
+
+.entry-title,
+.entry-title a {
+    font-style: italic;
+}
+.widget-title{background-color: crimson;}
